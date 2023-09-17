@@ -31,3 +31,11 @@ npm run dev
 ```
 
 Utilize o Insomnia para testar os end-points
+
+## Prints do projeto
+
+### Roteadores
+![Roteadores](src/imagens/roteadores.png)
+
+### Rotas Insomnia
+![Rotas](src/imagens/rotas.png)
